@@ -1,0 +1,17 @@
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\Vista.exe.config
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\Vista.exe
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\Vista.pdb
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\Vista.xml
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\AccesoDatos.dll
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\EntidadesNegocio.dll
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\AccesoDatos.pdb
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\AccesoDatos.xml
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\EntidadesNegocio.pdb
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\bin\Debug\EntidadesNegocio.xml
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\obj\Debug\Vista.vbprojResolveAssemblyReference.cache
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\obj\Debug\Vista.frmUsuario.resources
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\obj\Debug\Vista.Resources.resources
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\obj\Debug\Vista.vbproj.GenerateResource.Cache
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\obj\Debug\Vista.exe
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\obj\Debug\Vista.xml
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\Vista\obj\Debug\Vista.pdb

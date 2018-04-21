@@ -1,0 +1,9 @@
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\bin\Debug\EntidadesNegocio.dll
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\bin\Debug\EntidadesNegocio.pdb
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\bin\Debug\EntidadesNegocio.xml
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\obj\Debug\EntidadesNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\obj\Debug\EntidadesNegocio.Resources.resources
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\obj\Debug\EntidadesNegocio.vbproj.GenerateResource.Cache
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\obj\Debug\EntidadesNegocio.dll
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\obj\Debug\EntidadesNegocio.xml
+C:\Users\altamira\Desktop\MantenimientoUsr\UsuarioSln\EntidadesNegocio\obj\Debug\EntidadesNegocio.pdb
